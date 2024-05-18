@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99f4f64ae960193357c7993dc9b8534b",
+    "content-hash": "d6e70d6b9650a64974a98fcd56871368",
     "packages": [
         {
             "name": "brick/math",
@@ -5915,16 +5915,16 @@
         },
         {
             "name": "weprodev/larapanel",
-            "version": "v1.0.1",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/weprodev/LaraPanel.git",
-                "reference": "b9ba07bfae4332a03a3b088c50766d185cbd6223"
+                "reference": "62ec058942431b099843d9225ff348f6ac290951"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/weprodev/LaraPanel/zipball/b9ba07bfae4332a03a3b088c50766d185cbd6223",
-                "reference": "b9ba07bfae4332a03a3b088c50766d185cbd6223",
+                "url": "https://api.github.com/repos/weprodev/LaraPanel/zipball/62ec058942431b099843d9225ff348f6ac290951",
+                "reference": "62ec058942431b099843d9225ff348f6ac290951",
                 "shasum": ""
             },
             "require": {
@@ -5975,9 +5975,9 @@
             ],
             "support": {
                 "issues": "https://github.com/weprodev/LaraPanel/issues",
-                "source": "https://github.com/weprodev/LaraPanel/tree/v1.0.1"
+                "source": "https://github.com/weprodev/LaraPanel/tree/v1.0.2"
             },
-            "time": "2024-05-15T18:51:16+00:00"
+            "time": "2024-05-18T17:56:38+00:00"
         }
     ],
     "packages-dev": [
@@ -8433,7 +8433,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.2"
+        "php": "^8.3"
     },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
