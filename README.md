@@ -12,7 +12,9 @@ LaraPanel Framework is made by [Laravel](laravel.com) and [LaraPanel](https://gi
 You may just concentrate on creating your business logic after installing this framework rather than handling admin panel, user authorization roles, etc.
 
 # How To Install
+
 Follow the below steps to install it.
+
 ```
 1. composer create-project weprodev/larapanel-framework
 2. Config your .env file or just use sqlite locally
@@ -20,7 +22,8 @@ Follow the below steps to install it.
 4. php artisan db:seed
 5. php artisan serve
 ```
- and then open the URL: [LaraPanel Admin](http://127.0.0.1:8000/lp-admin/sign-in)
+
+and then open the URL: [LaraPanel Admin](http://127.0.0.1:8000/lp-admin/sign-in)
 
 # Support
 
@@ -28,17 +31,17 @@ Follow the below steps to install it.
 
 ### Here's how you can help
 
-- ↗️ _Spread the Word:_ Share LaraPanel with your friends, colleagues, and social media networks and add a star on GitHub. Every mention helps us reach more people and grow our community.
-  > Share on [Linkedin]() / [X / Twitter](https://x.com/intent/tweet?text=Excited%20to%20share%20an%20awesome%20%23Laravel%20package%20I%20discovered%20with%20%23WeProDev%20team!%20🚀%20Check%20it%20out%20here:&url=https%3A%2F%2Flarapanel.weprodev.com%20%20%23developers)
-- ☕ ❤️ _Make a Donation:_ If you've found _LaraPanel_ useful and would like to contribute financially, consider making a donation. Your support helps cover hosting costs, development tools, and other expenses that keep the project running.
+-   ↗️ _Spread the Word:_ Share LaraPanel with your friends, colleagues, and social media networks and add a star on GitHub. Every mention helps us reach more people and grow our community.
+    > Share on [Linkedin]() / [X / Twitter](https://x.com/intent/tweet?text=Excited%20to%20share%20an%20awesome%20%23Laravel%20package%20I%20discovered%20with%20%40WeProDevCom%20team!%20🚀%20Check%20it%20out%20here:&url=https%3A%2F%2Fgithub.com/weprodev/LaraPanel-Framework%20%20%23developers)
+-   ☕ ❤️ _Make a Donation:_ If you've found _LaraPanel_ useful and would like to contribute financially, consider making a donation. Your support helps cover hosting costs, development tools, and other expenses that keep the project running.
 
-  > 💲 Support LaraPanel development by becoming a sponsor. 
+    > 💲 Support LaraPanel development by becoming a sponsor.
 
-  [![Sponsor weprodev](https://img.shields.io/badge/Sponsor-weprodev-blue.svg)](https://github.com/sponsors/weprodev)
+    [![Sponsor weprodev](https://img.shields.io/badge/Sponsor-weprodev-blue.svg)](https://github.com/sponsors/weprodev)
 
-- 💪 _Contribute Code:_ Are you a developer? We welcome contributions of all sizes! Whether it's fixing bugs, adding new features, or improving documentation, every contribution makes a difference.
-- 💭 _Provide Feedback:_ Have ideas for how we can improve LaraPanel? We'd love to hear from you! Your feedback helps us prioritize our efforts and make LaraPanel even better.
-  > [Provide your feedback here](https://github.com/weprodev/LaraPanel)
+-   💪 _Contribute Code:_ Are you a developer? We welcome contributions of all sizes! Whether it's fixing bugs, adding new features, or improving documentation, every contribution makes a difference.
+-   💭 _Provide Feedback:_ Have ideas for how we can improve LaraPanel? We'd love to hear from you! Your feedback helps us prioritize our efforts and make LaraPanel even better.
+    > [Provide your feedback here](https://github.com/weprodev/LaraPanel)
 
 We're incredibly grateful for your support and contributions ❤️. Together, we can make [LaraPanel Framework](https://github.com/weprodev/LaraPanel-Framework) even more amazing! Thank you for being a part of our community! 🙏 🙌
 
@@ -46,10 +49,9 @@ We're incredibly grateful for your support and contributions ❤️. Together, w
 
 #### What You Are Allowed To Do With LaraPanel
 
-- Use in commercial projects.
-- Use in personal/private projects.
-- Modify and change the work.
-
+-   Use in commercial projects.
+-   Use in personal/private projects.
+-   Modify and change the work.
 
 # License
 
