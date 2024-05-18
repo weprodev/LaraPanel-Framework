@@ -38,7 +38,7 @@ Follow the below steps to install it.
 
 - 💪 _Contribute Code:_ Are you a developer? We welcome contributions of all sizes! Whether it's fixing bugs, adding new features, or improving documentation, every contribution makes a difference.
 - 💭 _Provide Feedback:_ Have ideas for how we can improve LaraPanel? We'd love to hear from you! Your feedback helps us prioritize our efforts and make LaraPanel even better.
-  > [Provide your feedback here](#)
+  > [Provide your feedback here](https://github.com/weprodev/LaraPanel)
 
 We're incredibly grateful for your support and contributions ❤️. Together, we can make [LaraPanel Framework](https://github.com/weprodev/LaraPanel-Framework) even more amazing! Thank you for being a part of our community! 🙏 🙌
 
