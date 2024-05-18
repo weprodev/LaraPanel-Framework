@@ -1,0 +1,24 @@
+.tabs-to-dropdown .nav-wrapper {
+  padding: 15px;
+  box-shadow: 0px 1px 2px rgb(242 237 244);
+}
+
+.tabs-to-dropdown .nav-pills li:not(:last-child) {
+  margin-right: 30px;
+}
+
+.tabs-to-dropdown .tab-content .container-fluid {
+  max-width: 1250px;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.tabs-to-dropdown .dropdown-item {
+  padding: 14px 28px;
+}
+
+@media (min-width: 1280px) {
+  .tabs-to-dropdown .nav-wrapper {
+    padding: 15px 30px;
+  }
+}
